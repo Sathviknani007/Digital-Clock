@@ -22,9 +22,3 @@ JavaScript’s Date() object fetches the system’s current time and date.
 The update() function formats the time into hours, minutes, and seconds, adds AM/PM, and shows the current date.
 
 setInterval(update, 1000) refreshes the display every second.
-
-🏃‍♂️ How to Run
-
-Clone this repository
-
-git clone https://github.com/Sathviknani007/digital-clock.git
