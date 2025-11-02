@@ -27,4 +27,4 @@ setInterval(update, 1000) refreshes the display every second.
 
 Clone this repository
 
-git clone https://github.com/yourusername/digital-clock.git
+git clone https://github.com/Sathviknani007/digital-clock.git
